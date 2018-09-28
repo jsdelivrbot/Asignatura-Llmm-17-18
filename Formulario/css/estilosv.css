@@ -1,0 +1,210 @@
+ @import url("https://fonts.googleapis.com/css?family=Lobster");
+ html, body {
+     margin:0;
+     padding: 0;
+}
+ body{
+     background-image: url("../img/fondo.jpg");
+}
+ body,input,select,label{
+     font-size: 2vw;
+     color: white ;
+}
+ #quees, #vomito {
+     position: relative;
+     left: 120px;
+     width: 20%;
+}
+ #comida {
+     position: relative;
+     left: 120px;
+     width: 20%;
+     height: 20%;
+     bottom: 60px;
+}
+ #songeniales, #regalo, #cuerno, #feliz, #rosa, #gato, #arcoiris{
+     position: relative;
+     left: 120px;
+     width: 20%;
+     height: 20%;
+}
+ h1,h2,h3,h5{
+     font-family: "Lobster", cursive;
+}
+ h1{
+     color:#dda0dd;
+     font-size: 3vw;
+}
+ h2,h3,h5 {
+     color: white;
+     font-size: 3vw;
+}
+ select{
+     width: 50%;
+     background-color: #dda0dd;
+     color: white;
+     font-family: "Lobster", cursive;
+}
+ input[type=checkbox]{
+     width: 5%;
+     background-color: #dda0dd;
+     color: white;
+}
+ input[type=text]{
+     background-color: #dda0dd;
+     font-family: "Lobster", cursive;
+}
+ input[type=submit]{
+     margin: 5%;
+     margin-left: 30%;
+     width: 35%;
+     font-family: "Lobster", cursive;
+     border-radius: 10px 10px 10px 10px;
+     background-color: #dda0dd;
+     color: white;
+     cursor: pointer;
+}
+ form{
+     border-radius: 10px 10px 10px 10px;
+     border-color: white;
+     border-width: 5px;
+     border-style: solid;
+     margin-top: 0%;
+     margin-bottom: 10%;
+     margin-left: 15%;
+     margin-right: 15%;
+     background-color: pink;
+     padding: 1%;
+     font-family: "Lobster", cursive;
+}
+ #resultadosDiv {
+     width: 60%;
+     position: relative;
+     margin-left: 25%;
+     background: pink;
+     text-align: center;
+     color: #dda0dd;
+     border-radius: 10px 10px 10px 10px;
+     font-family: "Lobster", cursive;
+     font-size: 2vw;
+     z-index: 1;
+}
+ #resultadoTotal {
+     width: 50%;
+     position: relative;
+     margin-left: 25%;
+     background:#dda0dd;
+     text-align: center;
+     color: white;
+     border-radius: 10px 10px 10px 10px;
+     font-family: "Lobster", cursive;
+}
+ #total{
+     font-size: 5vw;
+     font-family: "Lobster", cursive;
+}
+ #respuestas{
+     cursor: pointer;
+}
+ #cabecera{
+     border-radius: 10px 10px 10px 10px;
+     border-color: white;
+     border-width: 5px;
+     border-style: solid;
+     position: relative;
+     height: 25%;
+     background-color: pink;
+     margin: 2%;
+     margin-left: 10%;
+     margin-right: 10%;
+     font-family: "Lobster", cursive;
+}
+ #logo{
+     position: relative;
+     width: 10%;
+     height: 3%;
+     left: 10px;
+     top: 25px;
+}
+ #log {
+     position: relative;
+     width: 10%;
+     left: 30px;
+}
+ #titulo{
+     position: relative;
+     top: -15px;
+     left: 80px;
+}
+ #titul{
+     position: relative;
+     top: -20px;
+     left: 80px;
+}
+ footer {
+     background-color: pink;
+     color: white;
+     font-family: "Lobster", cursive;
+     height: 450px;
+     margin: 0 auto;
+}
+ #nombre, #log {
+     position: relative;
+     padding-left: 30px;
+     bottom: -6px;
+}
+ #lo {
+     position: relative;
+     margin-left: 100px;
+}
+ #instrucciones {
+     border-radius: 10px 10px 10px 10px;
+     border-color: white;
+     border-width: 5px;
+     border-style: solid;
+     margin: 2% 2% 2% 2%;
+     padding: 2% 2% 2% 2%;
+     background-color: pink;
+     display: inline-block;
+}
+ .hero-image {
+     background-image: url("../img/lo.png");
+     height: 90px;
+     width: 90px;
+     background-repeat: no-repeat;
+     background-size: cover;
+     position: relative;
+     left: 235px;
+     bottom: 140px;
+}
+ .hero-text {
+     text-align: center;
+     position: absolute;
+     top: 40%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     color:#dda0dd ;
+     font-size: 3vw;
+     font-family: "Lobster", cursive;
+}
+ .hero-text button {
+     border-color: white;
+     position: relative;
+     bottom: -40px;
+     display: inline-block;
+     padding: 0.5px 2px;
+     color: white;
+     background-color:#dda0dd ;
+     text-align: center;
+     cursor: pointer;
+}
+ #facebook, #twitter {
+     position: relative;
+     left: 200px;
+     height: 35px;
+     width: 35px;
+}
+#myButton{
+	font-family: "Lobster", cursive;
+}
+ 

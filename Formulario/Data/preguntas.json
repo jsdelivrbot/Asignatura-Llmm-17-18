@@ -1,0 +1,139 @@
+{
+   "questions": {
+      "question": [
+         {
+            "type": "text",
+            "title": "¿Qué es un arco iris?",
+            "answer": [
+               "Las pistas hacia unicorniolandia"
+            ],
+            "_id": "pregunta1"
+         },
+         {
+            "type": "select",
+            "title": "¿Cuando vomitas de qué color sale?",
+            "option": [
+               "De arco iris",
+               "Dorado",
+               "Qué es vomitar?"
+            ],
+            "answer": [
+               "0"
+            ],
+            "_id": "pregunta2"
+         },
+         {
+            "type": "checkbox",
+            "title": "¿Cúal es tu comida preferida?",
+            "option": [
+               "Cupcakes rosas",
+               "Flores",
+               "Chocolate",
+               "Pizza",
+               "Galletas"
+            ],
+            "answer": [
+               "0",
+               "1"
+            ],
+            "_id": "pregunta3"
+         },
+         {
+            "type": "radio",
+            "title": "¿Quién es tu mejor amigo?",
+            "option": [
+               "Unicornia",
+               "Gaticornio",
+               "Perrocornio"
+            ],
+            "answer": [
+               "1"
+            ],
+            "_id": "pregunta4"
+         },
+         {
+            "type": "multiple",
+            "title": "¿Tienes un cuerno en la cabeza?",
+            "option": [
+               "En mi culo",
+               "Sí",
+               "A veces",
+               "No lo sé",
+               "Pues tengo 4"
+            ],
+            "answer": [
+               "1",
+               "2",
+               "3"
+            ],
+            "_id": "pregunta5"
+         },
+         {
+            "type": "text",
+            "title": "¿Cuál tu color favorito?",
+            "answer": [
+               "Rosa"
+            ],
+            "_id": "pregunta6"
+         },
+         {
+            "type": "select",
+            "title": "¿Cómo te hace sentir esta imagen?",
+            "option": [
+               "¡Mucha ternura!",
+               "Nada",
+               "No sé",
+               "Arcoirizado"
+            ],
+            "answer": [
+               "3"
+            ],
+            "_id": "pregunta7"
+         },
+         {
+            "type": "checkbox",
+            "title": "¿Eres feliz?",
+            "option": [
+               "Mucho",
+               "Odio a todos",
+               "Soy el unicornio más feliz de este universo",
+               "Muy feliz"
+            ],
+            "answer": [
+               "0",
+               "2",
+               "3"
+            ],
+            "_id": "pregunta8"
+         },
+         {
+            "type": "radio",
+            "title": "¿Por qué te gustan los unicornios?",
+            "option": [
+               "Porque son geniales",
+               "Porque SIIIIIIIIIII",
+               "Porque soy uno de ellos"
+            ],
+            "answer": [
+               "2"
+            ],
+            "_id": "pregunta9"
+         },
+         {
+            "type": "multiple",
+            "title": "Elige un regalo",
+            "option": [
+               "Una nube",
+               "Un diamante",
+               "Otra nube",
+               "Una luna"
+            ],
+            "answer": [
+               "0",
+               "2"
+            ],
+            "_id": "pregunta10"
+         }
+      ]
+   }
+}

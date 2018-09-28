@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE questions SYSTEM "validar.dtd">
+<questions>
+  <question id='pregunta1'>
+    <type>text</type>
+    <title>¿Qué es un arco iris?</title>
+    <answer>Las pistas hacia unicorniolandia</answer>
+  </question>
+  <question id='pregunta2'>
+    <type>select</type>
+    <title>¿Cuando vomitas de qué color sale?</title>
+    <option>De arco iris</option>
+    <option>Dorado</option>
+    <option>Qué es vomitar?</option>
+    <answer>0</answer>
+  </question>
+  <question id='pregunta3'>
+    <type>checkbox</type>
+    <title>¿Cúal es tu comida preferida?</title>
+    <option>Cupcakes rosas</option>
+    <option>Flores</option>
+    <option>Chocolate</option>
+    <option>Pizza</option>
+    <option>Galletas</option>
+    <answer>0</answer>
+    <answer>1</answer>
+  </question>
+  <question id='pregunta4'>
+    <type>radio</type>
+    <title>¿Quién es tu mejor amigo?</title>
+    <option>Unicornia</option>
+    <option>Gaticornio</option>
+    <option>Perrocornio</option>
+    <answer>1</answer>
+  </question>
+  <question id='pregunta5'>
+    <type>multiple</type>
+    <title>¿Tienes un cuerno en la cabeza?</title>
+    <option>En mi culo</option>
+    <option>Sí</option>
+    <option>A veces</option>
+    <option>No lo sé</option>
+    <option>Pues tengo 4</option>
+    <answer>1</answer>
+    <answer>2</answer>
+    <answer>3</answer>
+  </question>
+  <question id='pregunta6'>
+    <type>text</type>
+    <title>¿Cuál tu color favorito?</title>
+    <answer>Rosa</answer>
+  </question>
+  <question id='pregunta7'>
+    <type>select</type>
+    <title>¿Cómo te hace sentir esta imagen?</title>
+    <option>¡Mucha ternura!</option>
+    <option>Nada</option>
+    <option>No sé</option>
+    <option>Arcoirizado</option>
+    <answer>3</answer>
+  </question>
+  <question id='pregunta8'>
+    <type>checkbox</type>
+    <title>¿Eres feliz?</title>
+    <option>Mucho</option>
+    <option>Odio a todos</option>
+    <option>Soy el unicornio más feliz de este universo</option>
+    <option>Muy feliz</option>
+    <answer>0</answer>
+    <answer>2</answer>
+    <answer>3</answer>
+  </question>
+  <question id='pregunta9'>
+    <type>radio</type>
+    <title>¿Por qué te gustan los unicornios?</title>
+    <option>Porque son geniales</option>
+    <option>Porque SIIIIIIIIIII</option>
+    <option>Porque soy uno de ellos</option>
+    <answer>2</answer>
+  </question>
+  <question id='pregunta10'>
+    <type>multiple</type>
+    <title>Elige un regalo</title>
+    <option>Una nube</option>
+    <option>Un diamante</option>
+    <option>Otra nube</option>
+    <option>Una luna</option>
+    <answer>0</answer>
+    <answer>2</answer>
+  </question>
+</questions>
