@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Lunar Lander</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='stylesheet' media='screen and (min-width: 961px)' href='css/stylesh.css'>
+    <link rel='stylesheet' media='screen and (max-width: 960px)' href='css/stylesv.css'>
+</head>
+
+<body>
+    <div class="all">
+
+        <div class="right"></div>
+
+        <div class="down"></div>
+
+        <div class="fuel">
+            <img src="img/speed.png" id="speed" alt="speed">
+
+            <div class="velocidad">
+                <span id="velocidad">100</span> m/s
+            </div>
+
+            <img src="img/fuel.png" id="ful" alt="fuel">
+
+            <div class="fuel-text">
+                <span id="fuel">100</span> l
+            </div>
+
+            <img src="img/height.png" id="height" alt="height">
+
+            <div class="altura">
+                <span id="altura">70</span> m
+            </div>
+
+        </div>
+    </div>
+
+    <div id="mensajeFinal">
+        <h1 class="mensaje" id="acierto">Has ganado</h1>
+        <h1 class="mensaje" id="fallo">Has perdido</h1>
+    </div>
+
+    <div id="rocket">
+        <img id="nave" src="img/rocket.png" alt="rocket">
+        <img id="flame" src="img/flame.gif" style="display: none" alt="flame">
+    </div>
+
+    <div id="showm">show menu</div>
+    <div class="c">
+        <div id="hidem">hide menu</div>
+        <ul id="menu">
+            <li><a href="#" onclick="location.reload()">Jugar</a></li>
+            <li><a href="#" onclick="alert('Si la nave explota has perdido')">Instrucciones</a></li>
+            <li><a href="#" onclick="alert('Ramona M. Landvreugd')">Acerca de...</a></li>
+        </ul>
+    </div>
+
+    <script src="js/js.js"></script>
+</body>
+
+</html>

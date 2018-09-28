@@ -1,0 +1,27 @@
+[{
+  "id": "news4",
+  "titulo":"Conoce a Boo el perrito mas lindo del mundo.",
+  "desc": "Boo es un pequeño perro pomeriano, sin embargo tiene un look diferente que lo hace ver como un perro de peluche. Gracias a su tierna apariencia ha saltado a la fama y a logrado ser reconocido como “el perro más lindo del mundo” (the world cutest dog in the world) con lo que impuesto moda entre esta raza imitando su corte de pelo. Boo es toda una estrella de internet e incluso tiene más fans en Facebook que muchas celebridades, alcanzando los 9 millones de seguidores. Un bloguero de un sitio web de noticias de tecnología ha develado uno de los mayores secretos de Facebook.  Al menos uno que lo era para miles de usuarios que a diario miran embobados las fotos de Boo, el perro “más lindo del mundo” (según Google), y que de seguro se preguntaban quién sería su afortunado dueño.Mike Isaac, quien escribe en AllThingsD, descubrió que el perro pertenece a una funcionaria de Facebook de nombre Irene Ahn, que vive en San Francisco y que es quien sube a Internet las fotos de Boo bajo el seudónimo J.H. Lee, para no quitarle atención a su mascota… Cosa, ciertamente, difícil. (Si no crees que Boo es lindo, mira su foto)",
+  "datetime" : "17/04/18 16:00",
+  "img" : "img/img4.jpg"
+  
+  
+  },
+  
+ {  
+	"id": "news5",
+  "titulo":"Un conejo triunfa en la red con sus vistosas orejas",
+  "desc": " Se llama Wally y tiene más de 130.000 seguidores en Instagram. Un conejo de Angora inglés se ha convertido en toda una sensación en la citada red social y todo gracias a sus vistosas orejas, que parecen dos grandes coletas. Esta adorable mascota no sólo desprende carisma ante la cámara, sino que, viendo sus fotos, parece saber cómo posar como un modelo profesional. Wally nació en julio del año pasado y vive en Massachusetts con su dueña, Molly, quien asegura que es “una hermosa criaturita y una mascota maravillosa.Los conejos de Angora, de pelaje más largo y suave que el de otros conejos, son una de las especies de conejo doméstico más antiguas que se conocen. Fueron criados por primera vez en Ankara (Turquía) y en el siglo XVIII se hicieron populares en Francia. Hoy son unos de los preferidos como mascotas, porque son como peluches.",
+  "datetime" : "17/04/18 16:00",
+  "img" : "img/img5.jpg"
+    
+    },
+	
+   { 
+   "id": "news6",
+  "titulo":"Hamilton, el gato 'hipster' con bigote que triunfa en las redes",
+  "desc": "Hamilton es un famoso gato 'hipster' que por su perfecto y simétrico bigote blanco causa sensación en Instagram y en Facebook. Fue adoptado en 2012 y desde entonces su dueño decidió abrirle cuenta en las redes para compartir con el mundo cómo habia cambiado la vida del felino que adoptó. El animal fue abandonado en las calles de San Francisco, EE.UU., y posteriormente rescatado desde un refugio de animales por el comediante Jay Stowe, según consignó el Huffington Post. La característica sigular del felino es sin duda su 'bigote' formado por el color del pelo que cubre debajo de su nariz. Lo que le ha valido el apodo en internet de 'el gato hipster'.",
+  "datetime" : "17/04/18 16:00",
+  "img" : "img/img6.jpg"
+	  
+    }]

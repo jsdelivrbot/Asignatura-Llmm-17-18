@@ -1,0 +1,149 @@
+body {
+     background-image: url(../img/fondo3.png);
+     background-repeat:repeat;
+     background-size:auto;
+     font-family: 'Oswald', sans-serif;
+}
+ .jumbotron{
+     color: grey;
+}
+ h2 {
+     border-style:groove;
+     padding-left: 10px;
+     padding-top: 10px;
+     padding-right:10px;
+     padding-bottom:10px;
+     background-color: #6495ED;
+}
+ #publipc {
+     width: 336px;
+     float: right;
+     overflow: hidden;
+}
+ .informacion {
+     font-size: 15px;
+}
+/* Empieza mov */
+ @media (max-width:899px) {
+     #publim {
+         position: fixed;
+         bottom: 0;
+         max-height: 90px;
+         padding-left: 0;
+    }
+     #publipc{
+         display:none;
+    }
+     #footer{
+         margin-bottom: 90px;
+    }
+     .jumbotron img{
+         padding-left:20%;
+    }
+     iframe{
+         width:400px;
+         height:100%;
+         border: 0;
+    }
+     
+}
+/* Termina */
+ .item2{
+     margin-left:10%;
+}
+ .row .item{
+     text-align: center;
+     margin-right: 41%;
+}
+ .panel-default{
+     padding-left:25% 
+}
+ .btn-primary{
+     background-color:#6495ED ;
+     font-size: 15px;
+     color: black;
+}
+/* Empieza pc */
+ @media (min-width: 900px) {
+     #publim {
+         display: none;
+    }
+     .item2{
+         text-align: center;
+         margin-right: 35%;
+    }
+     .jumbotron img{
+         padding-left:40%;
+    }
+     iframe {
+         width:336px;
+         height: 600px;
+         border: 0;
+    }
+     
+}
+/* Termina pc */
+ #masnoticias{
+     background-color: #6495ED;
+}
+ #footer{
+     background-color:#ECF0F1;
+     font-size: 15px;
+     bottom: 10px;
+     height: 160px;
+     padding-top:20px;
+     padding-left: 20px;
+     padding-bottom: 20px;
+}
+ #footer a{
+     color: grey;
+}
+ .informacion p {
+     background: #ecf0f1;
+     padding-left: 10px;
+     padding-top: 20px;
+     padding-right:10px;
+     padding-bottom:10px;
+}
+ .fa-youtube, .fa-github{
+     color:grey;
+}
+ .fa-thumbs-up{
+     color:#6495ED;
+}
+ #barranav{
+     background-color: #6495ED;
+     border-style: solid;
+     border-color: #6495ED;
+     font-family: 'Oswald', sans-serif;
+}
+ a{
+     font-family: 'Oswald', sans-serif;
+     color: black;
+}
+ .tweets{
+     width: 336px;
+     height: 400px;
+     float: right;
+}
+ body.preloader-site {
+     overflow: hidden;
+}
+ .preloader-wrapper {
+     height: 100%;
+     width: 100%;
+     background: #FFF;
+     position: fixed;
+     top: 0;
+     left: 0;
+     z-index: 9999999;
+}
+ .preloader-wrapper .preloader {
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     -webkit-transform: translate(-50%, -50%);
+     transform: translate(-50%, -50%);
+     width: 120px;
+}
+ 
