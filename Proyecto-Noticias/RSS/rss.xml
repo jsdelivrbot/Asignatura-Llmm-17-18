@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+   <channel>
+      <title>Las mascotas más ricas y famosas</title>
+      <link>https://rawgit.com/ramonaml/Proyecto-Noticias/master/las-mascotas-mas-ricas-y-famosas.html</link>
+      <description>Algunas noticias sobre peluditos que viven mejor que tú ...</description>
+      <item>
+         <title>El perro de Mark Zuckerberg es un as del camuflaje (en serio... ¿tú lo ves?)</title>
+         <link>https://rawgit.com/ramonaml/Proyecto-Noticias/master/el-perro-de-mark-zuckerberg.html</link>
+         <description>Con tantos sistemas implementados por Facebook para esconder cosas en la red social y obtener información, no es de sorprender que la mascota de Mark Zuckerberg pueda bien pasar como un ninja.</description>
+      </item>
+      <item>
+         <title>La historia de Tuna: del abandono a la fama en Instagram</title>
+         <link>https://rawgit.com/ramonaml/Proyecto-Noticias/master/la-historia-de-tuna.html</link>
+         <description>Hace ya más de cinco años que Courtney Dasher tuvo el encuentro que cambiaría su vida.</description>
+      </item>
+      <item>
+         <title>Crusoe, el perro aventurero que conquista las redes</title>
+         <link>https://rawgit.com/ramonaml/Proyecto-Noticias/master/crusoe-el-perro-aventurero.html</link>
+         <description>Firma libros, da autógrafos, se toma fotos con sus fans y vive como toda una celebridad. Crusoe es un perro salchicha miniatura que vive en Canadá.</description>
+      </item>
+   </channel>
+</rss>
