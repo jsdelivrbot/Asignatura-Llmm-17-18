@@ -52,7 +52,7 @@ window.onload = function(){
 			gestionarXml(this);
 		}
 	};
-	xhttp.open("GET","https://rawgit.com/ramonaml/xml/master/preguntas.xml", true);
+	xhttp.open("GET","https://cdn.jsdelivr.net/gh/ramonaml/xml/preguntas.xml", true);
 	xhttp.send();
 	
 window.onmousedown = function (e) {
